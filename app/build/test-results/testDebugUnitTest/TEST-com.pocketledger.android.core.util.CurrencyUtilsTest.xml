@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pocketledger.android.core.util.CurrencyUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-11T06:33:24" hostname="LAPTOP-RUDRA" time="0.087">
+  <properties/>
+  <testcase name="test parseRupeesToPaise invalid or non-positive inputs" classname="com.pocketledger.android.core.util.CurrencyUtilsTest" time="0.021"/>
+  <testcase name="test parseRupeesToPaise valid inputs" classname="com.pocketledger.android.core.util.CurrencyUtilsTest" time="0.015"/>
+  <testcase name="test formatPaiseToRupees" classname="com.pocketledger.android.core.util.CurrencyUtilsTest" time="0.047"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

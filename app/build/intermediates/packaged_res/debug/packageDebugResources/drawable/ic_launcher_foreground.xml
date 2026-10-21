@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wallet Main Body -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M28,34h48c3.31,0 6,2.69 6,6v28c0,3.31 -2.69,6 -6,6H28c-3.31,0 -6,-2.69 -6,-6V40c0,-3.31 2.69,-6 6,-6z" />
+    <!-- Wallet Flap -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M60,46h22v16H60c-2.21,0 -4,-1.79 -4,-4v-8c0,-2.21 1.79,-4 4,-4z" />
+    <!-- Wallet Clasp Button -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M68,54m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+    <!-- Upward Financial Growth Accent -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M32,58l10,-10l8,8l14,-14h-8v-4h14v14h-4v-8l-12,12l-8,-8l-8,8z" />
+</vector>

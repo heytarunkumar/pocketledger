@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pocketledger.android.domain.FinancialCalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-11T06:33:27" hostname="LAPTOP-RUDRA" time="0.043">
+  <properties/>
+  <testcase name="test income increases the appropriate account balance" classname="com.pocketledger.android.domain.FinancialCalculatorTest" time="0.007"/>
+  <testcase name="test budget utilization and overspending detection" classname="com.pocketledger.android.domain.FinancialCalculatorTest" time="0.002"/>
+  <testcase name="test expenses decrease the appropriate account balance" classname="com.pocketledger.android.domain.FinancialCalculatorTest" time="0.0"/>
+  <testcase name="test invalid amounts and incomplete transfers are rejected by validator" classname="com.pocketledger.android.domain.FinancialCalculatorTest" time="0.0"/>
+  <testcase name="test editing a transaction updates the totals correctly" classname="com.pocketledger.android.domain.FinancialCalculatorTest" time="0.001"/>
+  <testcase name="test transfers are excluded from income and expense totals" classname="com.pocketledger.android.domain.FinancialCalculatorTest" time="0.03"/>
+  <testcase name="test transfers move money between accounts without changing total owned cash" classname="com.pocketledger.android.domain.FinancialCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

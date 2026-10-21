@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.6\\com.pocketledger.android.app-release-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.6\\com.pocketledger.android.app-main-57:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.6\\com.pocketledger.android.app-release-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.6\\com.pocketledger.android.app-main-57:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.pocketledger.android.app-release-56:/drawable_ic_launcher.xml.flat",
+        "source": "com.pocketledger.android.app-main-57:/drawable/ic_launcher.xml"
+    }
+]
